@@ -1,0 +1,10 @@
+.ci-docker.sh
+.gitignore
+.helm.sh
+.tests-run.sh
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+helm
+HomebrewFormula
